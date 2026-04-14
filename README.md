@@ -48,6 +48,11 @@ Created an interactive Tableau dashboard to analyze shop trends. Performed data 
 
 <img width="1366" height="774" alt="Country" src="https://github.com/user-attachments/assets/11a9c6a3-a9e9-4a16-95dd-062edcc593e6" />
 
+## Dataset
+This project uses "Coffee Bean Sales Raw Dataset" by Saad Haroon from Kaggle, licensed under CC0 - Public Domain.
+
+
+
 
 
 
