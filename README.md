@@ -36,6 +36,22 @@ Created an interactive Tableau dashboard to analyze shop trends. Performed data 
 
 <img width="1368" height="768" alt="Sales Summary" src="https://github.com/user-attachments/assets/66f4ae51-0e2d-4cc8-bd23-7687608bd150" />
 
+### Product
+
+<img width="1366" height="771" alt="Product" src="https://github.com/user-attachments/assets/0c52aeee-bfda-4bf3-a507-1a433be4908d" />
+
+### Customer
+
+<img width="1365" height="771" alt="Customer" src="https://github.com/user-attachments/assets/5b213867-4dc3-43bd-a373-57c76d317b2f" />
+
+### Country
+
+<img width="1366" height="774" alt="Country" src="https://github.com/user-attachments/assets/11a9c6a3-a9e9-4a16-95dd-062edcc593e6" />
+
+
+
+
+
 
 
 
